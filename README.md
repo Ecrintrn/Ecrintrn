@@ -8,7 +8,7 @@
 My name is Ecrin Taran and I am studying at İzmir Fen Lisesi in Turkey. My field of work is mostly meta-heuristic algorithms. I am also very interested in machine learning algorithms, Python and MATLAB programming languages, and data science.
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=tohid-yousefi&show_icons=true" alt="Ecrintrn's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Ecrintrn&show_icons=true" alt="Ecrintrn's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ecrintrni&layout=compact&hide=html,css" alt="ETop Langs" />
 </p>
 

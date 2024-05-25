@@ -15,7 +15,6 @@ My name is Ecrin Taran and I am studying at İzmir Fen Lisesi in Turkey. I am in
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=Ecrintrn&show_icons=true" alt="Ecrintrn's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ecrintrni&layout=compact&hide=html,css" alt="ETop Langs" />
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ecrintrn)
